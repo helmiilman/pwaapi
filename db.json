@@ -1,0 +1,22 @@
+{ "products": [{"id":1,"name":"Psophia viridis","category":"Orange"},
+{"id":2,"name":"Herpestes javanicus","category":"Purple"},
+{"id":3,"name":"Elephas maximus bengalensis","category":"Fuscia"},
+{"id":4,"name":"Ovis canadensis","category":"Crimson"},
+{"id":5,"name":"Chlidonias leucopterus","category":"Goldenrod"},
+{"id":6,"name":"Sciurus vulgaris","category":"Puce"},
+{"id":7,"name":"Francolinus leucoscepus","category":"Green"},
+{"id":8,"name":"Lasiodora parahybana","category":"Goldenrod"},
+{"id":9,"name":"Erethizon dorsatum","category":"Fuscia"},
+{"id":10,"name":"Uraeginthus granatina","category":"Goldenrod"},
+{"id":11,"name":"Cebus albifrons","category":"Aquamarine"},
+{"id":12,"name":"Bettongia penicillata","category":"Turquoise"},
+{"id":13,"name":"Falco peregrinus","category":"Purple"},
+{"id":14,"name":"Neotis denhami","category":"Violet"},
+{"id":15,"name":"Antechinus flavipes","category":"Blue"},
+{"id":16,"name":"Heloderma horridum","category":"Indigo"},
+{"id":17,"name":"Zenaida asiatica","category":"Fuscia"},
+{"id":18,"name":"Gazella granti","category":"Turquoise"},
+{"id":19,"name":"Anhinga rufa","category":"Indigo"},
+{"id":20,"name":"Chlamydosaurus kingii","category":"Orange"}
+]
+}
